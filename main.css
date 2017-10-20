@@ -1,0 +1,109 @@
+h1{
+  padding-left: 20px;
+  font-family: 'Inconsolata', monospace;
+}
+
+.texto1{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 295px;
+  padding-left: 90px;
+  color: white;
+}
+
+.texto2{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 295px;
+  padding-left: 90px;
+  color: white;
+}
+
+.texto3{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 295px;
+  padding-left: 90px;
+  color: white;
+}
+
+.texto4{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 550px;
+  padding-left: 90px;
+  color: white;
+}
+
+.texto5{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 550px;
+  padding-left: 90px;
+  color: white;
+}
+
+.texto6{
+  font-family: 'Inconsolata', monospace;
+  position: absolute;
+  top: 550px;
+  padding-left: 90px;
+  color: white;
+}
+
+
+img{
+  width: 230px;
+  height: 230px;
+}
+
+hr{
+  margin-left: 20px;
+  padding-top: 0.3%;
+  background: black;
+  width: 100px;
+}
+
+.imagen_1{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+  text-align: right;
+}
+
+.imagen_2{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+  text-align: right;
+}
+
+.imagen2{
+  position: absolute;
+  top: 40px;
+}
+
+.imagen_3{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+  text-align: right;
+}
+
+.imagen_4{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.imagen_5{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.imgen_6{
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 20px;
+}
